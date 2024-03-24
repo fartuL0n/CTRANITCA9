@@ -1,0 +1,100 @@
+body {
+    font-family: comic sans ms;
+    background: url(https://i.postimg.cc/QMprZ11B/image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 40px;
+    color:#164877;
+}
+
+.hoho {
+    font-size: 30px;
+}
+
+.LOOL {
+    color: #000000;
+    text-decoration: none;
+}
+
+.inf{
+    font-size: 15px;
+    font-weight: 700;
+    color:#000000;
+    font-family: sans-serif;
+}
+
+p{
+    width: 70%;
+}
+
+main{
+   margin-left: 180px;
+}
+
+nav a {
+
+    position: absolute;
+    left: -110px;
+    transition: 0.3s; 
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius:  0 5px 5px 0;
+}
+
+.about {
+    top: 5px;
+    background-color: #4c82af;
+}
+
+.blog {
+    top: 82px;
+    background-color: #8bbee7;
+}
+
+.projects {
+    top: 140px;
+    background-color:#598eb9;
+}
+
+.contact {
+    top: 197px;
+    background-color: #ffe346;
+}
+
+.pros {
+    top: 280px;
+    background-color: #b95959;
+}
+
+nav a:hover{
+    left: 0px;
+}
+
+.jj {
+    top: 15px;
+    height: 70px;
+    position:relative;
+}
+
+h1{
+    background-color: rgba(255, 255, 255, 0.719);
+     box-shadow: 0px 10px 0 0 #8bbee7;
+    border-radius: 20px;
+}
+
+p {
+    background-color: rgba(255, 255, 255, 0.719);
+    border-radius: 10px;
+}
+
+h2{
+     box-shadow: 0px 10px 0 0#ffe346;
+    border-radius: 5px;
+    background-color: #fff3ac96;
+}
